@@ -1,2 +1,2 @@
 #Site para restaurantes
-![Alt text](image.png)
+Isso é só pra ir documentando a porra do projeto!
