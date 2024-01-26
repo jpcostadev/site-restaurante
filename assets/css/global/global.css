@@ -1,0 +1,25 @@
+:root {
+  --preto: #000000;
+  --branco: #ffffff;
+  --cinza1: #252525;
+  --cinza2: #313131;
+  --cinza3: #7c7c7c;
+  --verde: #99b897;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--cinza1);
+  color: var(--branco);
+  font-size: 1.6rem;
+}
