@@ -22,4 +22,25 @@ body {
   background-color: var(--cinza1);
   color: var(--branco);
   font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--branco);
+}
+
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+img {
+  max-width: 100%;
+  display: block;
 }
