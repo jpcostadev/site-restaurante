@@ -1,0 +1,11 @@
+.intro {
+  background-image: url("../../img/banner-intro.jpg");
+  background-size: cover;
+  background-position: center center;
+  min-height: 300px;
+}
+
+.text-intro {
+  width: 100%;
+  height: 500px;
+}
