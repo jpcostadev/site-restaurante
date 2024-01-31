@@ -1,0 +1,14 @@
+.response {
+  background-color: var(--cinza1);
+  box-shadow: 1px 1px 1px var(--cinza1);
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.prato {
+  background-color: var(--cinza2);
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+}
